@@ -60,7 +60,6 @@ public class LoginActivity extends AppCompatActivity {
 
         user.setUsername(username);
         user.setPassword(password);
-        user.setEmail("email@example.com");
 
         user.signUpInBackground(new SignUpCallback() {
             public void done(ParseException e) {
