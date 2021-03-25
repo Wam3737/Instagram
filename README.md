@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 - [X] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 - [X] Show the username for each post.
 - [X] User Profiles
-      - [X] Allow the logged in user to add a profile photo
-      - [X] Display the profile photo with each post
+- - [X] Allow the logged in user to add a profile photo
+-  - [X] Display the profile photo with each post
 
 
 ## Video Walkthrough
